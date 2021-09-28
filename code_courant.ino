@@ -1,5 +1,3 @@
-#include <Filters.h>  //external library that can be downloaded at this adress: https://www.arduinolibraries.info/libraries/filters
-
 //declare the variable
 float cour1 = 0;
 
